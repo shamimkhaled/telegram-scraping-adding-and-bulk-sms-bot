@@ -12,6 +12,7 @@
 2. **Create Python Virtual Environment:**
    - Open your terminal in the project directory or Open the project directory in VS code.
    - Run the command: `python -m venv env` to create a virtual environment.
+     
    **Activate the environment :** 
     - Windows: `.\env\Scripts\activate` 
     - Linux or macOS: `source env/bin/activate`
