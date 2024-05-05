@@ -7,7 +7,7 @@
    - Set up the Python environment path in Windows, Linux, or macOS.
 
    **Download and Install VS Code:**
-      - Visit [code.visualstudio.com/download] (https://code.visualstudio.com/download) to download and install VS Code for your operating system.
+      - Visit [code.visualstudio.com/download](https://code.visualstudio.com/download) to download and install VS Code for your operating system.
 
 2. **Create Python Virtual Environment:**
    - Open your terminal in the project directory or Open the project directory in VS code.
