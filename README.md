@@ -25,7 +25,7 @@
 
 ## Documentation:
 
-**Step 1: Storing Accounts**
+**Step 1: Setup Accounts**
 
 - Open the terminal in the project directory.
 - Run `python authenticate.py`.
