@@ -1,0 +1,9 @@
+telethon
+keyboard
+colorama
+pyfiglet
+requests
+
+
+1 2 3 4 ! @ # $ 
+phone: +8801903526254
