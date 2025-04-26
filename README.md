@@ -1,4 +1,4 @@
-# Telegram Bot - Scrape Telegram Members and Add to your Group and Send to Bulk SMS  All Scraped Members
+# 🚀 TeleBot Manager Tool: Scrape Telegram Members and Add to your Group and Send to Bulk SMS  All Scraped Members
 
 ## Environment Setup:
 
